@@ -1,4 +1,4 @@
-Atlas de la Poesía Visual
+#Atlas de la Poesía Visual
 
 Cartografía internacional de convocatorias, instituciones y redes de creación
 
