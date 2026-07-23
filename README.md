@@ -1,4 +1,4 @@
-Atlas de la Poesía Visual
+# Atlas de la Poesía Visual
 
 Cartografía internacional de convocatorias, instituciones y redes de creación
 
@@ -10,9 +10,9 @@ El Atlas de la Poesía Visual es un proyecto de documentación dedicado a reunir
 
 Su finalidad es facilitar el acceso a información rigurosa, verificable y actualizada para artistas, investigadores, docentes, estudiantes y cualquier persona interesada en este ámbito de creación.
 
-Principios editoriales
-Prioridad a las fuentes oficiales.
-Información verificable.
-Enfoque internacional.
-Actualización continua.
-Documentar antes que clasificar.
+Principios editoriales  
+Prioridad a las fuentes oficiales.  
+Información verificable.  
+Enfoque internacional.  
+Actualización continua.  
+Documentar antes que clasificar.  
