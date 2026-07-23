@@ -7,11 +7,11 @@ El Atlas nace con la voluntad de documentar ese ecosistema de forma rigurosa, ab
 No pretende establecer un canon ni decidir qué prácticas son o no son poesía visual. Su objetivo es ofrecer un mapa que ayude a comprender las relaciones entre personas, instituciones, convocatorias y movimientos.
 
 ## Principios
-Documentar antes que clasificar.  
-Priorizar las fuentes oficiales.  
-Diferenciar claramente hechos y opiniones.  
-Mantener un lenguaje neutro.  
-Favorecer la continuidad del proyecto por encima de las decisiones individuales.  
+* Documentar antes que clasificar.  
+* Priorizar las fuentes oficiales.  
+* Diferenciar claramente hechos y opiniones.  
+* Mantener un lenguaje neutro.  
+* Favorecer la continuidad del proyecto por encima de las decisiones individuales.  
 
 ## Criterios de calidad
 
@@ -33,8 +33,8 @@ Una ficha excelente aporta más valor que diez incompletas.
 
 El Atlas está pensado para dos tipos de usuarios:
 
-quienes buscan una convocatoria en la que participar.  
-quienes desean comprender el ecosistema de la poesía visual y la poesía experimental.  
+* Quienes buscan una convocatoria en la que participar.  
+* Quienes desean comprender el ecosistema de la poesía visual y la poesía experimental.  
 
 Toda decisión editorial deberá intentar satisfacer a ambos.
 
@@ -44,8 +44,8 @@ Cartografiar el territorio donde la palabra se convierte en imagen.
 
 ## Lo que el Atlas no quiere ser
 
-No es un agregador automático de convocatorias.  
-No es un ranking de premios.  
-No es una enciclopedia cerrada.  
-No pretende sustituir las páginas oficiales.  
-No publica información sin verificar.  
+* No es un agregador automático de convocatorias.  
+* No es un ranking de premios.  
+* No es una enciclopedia cerrada.  
+* No pretende sustituir las páginas oficiales.  
+* No publica información sin verificar.  
